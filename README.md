@@ -96,11 +96,11 @@ Este es el codigo generado para la obtención de la tabla y como es su diseño, 
  ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura15.png)
  
 a.	La evidencia de la validación de cada página HTML.
-![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura16.png)
+![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura16.PNG)
 
-![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura17.png)
+![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura17.PNG)
 
-![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura18.png)
+![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura18.PNG)
  
 5.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica)
 
