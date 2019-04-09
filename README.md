@@ -78,22 +78,22 @@ Este es el codigo generado para la obtención de la tabla y como es su diseño, 
 a.	La evidencia de la validación de cada página HTML.
 -	INDEX
  
- ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura10.PNG)
+ ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura10.PNG)
 
 -PAGINA GENEROS
- ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura11.PNG)
+ ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura11.PNG)
 
 -	PAGINA PLATAFORMAS
-  ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura12.PNG)
+  ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura12.PNG)
 
 -	PAGINA RECOMENDACIONES
- ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura13.PNG)
+ ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura13.PNG)
  
 -	PAGINA ESTRENOS
- ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura14.PNG)
+ ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura14.PNG)
 
 -	PAGINA GAMEPLAYS
- ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura15.PNG)
+ ![2](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/captura15.PNG)
  
 5.	En el informe se debe incluir la información de GitHub (usuario y URL del repositorio de la práctica)
 
