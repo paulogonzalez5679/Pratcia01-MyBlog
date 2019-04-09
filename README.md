@@ -1,7 +1,7 @@
 # Pratcia01-MyBlog
 1.	Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”
      El repositorio fue creado correctamente con el nombre establecido
-    ![](https://drive.google.com/open?id=1S6lFyrmE4c7DPmVwMz9WnYiYr3HNqu-9)
+    ![1](https://github.com/paulogonzalez5679/Pratcia01-MyBlog/blob/master/capturas/Captura.PNG)
 2.   Realizar un commit y push por cada requerimiento de los puntos antes descritos. 
       Se realizaron todos los commits correspondientes a cada uno de los puntos, estableciendo las diferentes versiones que se realizaron.
        <img src="https://drive.google.com/open?id=1OPexnqpFfuPJRdLQfGUrt-orfeomuhwi" />
